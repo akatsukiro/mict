@@ -3,7 +3,7 @@
 
 ---
 name: genshin_impact
-version: "2025.09.13"
+version: "2025.09.14"
 sort: original
 use_preset_vocabulary: true
 ...
@@ -1674,7 +1674,7 @@ use_preset_vocabulary: true
 艾尤恩	ai you en	1
 艾希拉	ai xi la	1
 艾库瓦	ai ku wa	1
-艾德温.伊斯丁豪斯	ai de wen . yi si ding hao si	1
+艾德温.伊斯丁豪斯	ai de wen yi si ding hao si	1
 艾慕	ai mu	1
 艾拉·马斯克	ai la · ma si ke	1
 艾拉姆	ai la mu	1
@@ -2852,7 +2852,7 @@ use_preset_vocabulary: true
 善后工作	shan hou gong zuo	1
 善良促销	shan liang cu xiao	1
 喑哑的回声	yin ya de hui sheng	1
-喵…喵喵？喵！喵。	miao miao miao miao miao 。	1
+喵…喵喵？喵！喵。	miao miao miao miao miao	1
 嘟嘟可砰砰历险记！	du du ke peng peng li xian ji	1
 嘿！你的信！	hei ni de xin	1
 四叶草之章	si ye cao zhi zhang	1
@@ -3189,7 +3189,7 @@ use_preset_vocabulary: true
 日轮与菅名山	ri lun yu jian ming shan	1
 旧世遗音	jiu shi yi yin	1
 旧味难寻	jiu wei nan xun	1
-早早失败的图形对抗学…	zao zao shi bai de tu xing dui kang xue …	1
+早早失败的图形对抗学…	zao zao shi bai de tu xing dui kang xue	1
 长高的…方法？	zhang gao de fang fa	1
 时与风	shi yu feng	1
 时限二十四小时	shi xian er shi si xiao shi	1
@@ -3401,7 +3401,7 @@ use_preset_vocabulary: true
 灵石何故堕此间	ling shi he gu duo ci jian	1
 灾厄的脚步	zai e de jiao bu	1
 炫音爆光	xuan yin bao guang	1
-炮炮，又见炮炮。	pao pao you jian pao pao 。	1
+炮炮，又见炮炮。	pao pao you jian pao pao	1
 点石成…什么	dian shi cheng shen me	1
 炼金术，大突破？	lian jin shu da tu po	1
 炽热的沃陆	chi re de wo lu	1
@@ -4126,8 +4126,6 @@ use_preset_vocabulary: true
 一罐鱼苗	yi guan yu miao	1
 一袋回收品	yi dai hui shou pin	1
 一袋摩拉	yi dai mo la	1
-一袋摩拉	yi dai mo la 4.4	1
-一袋摩拉	yi dai mo la gong zi	1
 一袋花种	yi dai hua zhong	1
 一袋豆子	yi dai dou zi	1
 一袋货物	yi dai huo wu	1
@@ -4570,6 +4568,7 @@ use_preset_vocabulary: true
 卫从的木哨	wei cong de mu shao	1
 卫兵长矛	wei bing chang mao	1
 卯师傅特制香嫩椒椒鸡	mao shi fu te zhi xiang nen jiao jiao ji	1
+印有海螺纹样的笔记本	yin you hai luo wen yang de bi ji ben	1
 印有海螺纹样的纸页	yin you hai luo wen yang de zhi ye	1
 即兴表演的欢庆时光	ji xing biao yan de huan qing shi guang	1
 却砂木	que sha mu	1
@@ -4942,6 +4941,7 @@ use_preset_vocabulary: true
 夏日林中的向导	xia ri lin zhong de xiang dao	1
 夏日林中的盛宴	xia ri lin zhong de sheng yan	1
 夏槲果	xia hu guo	1
+夏槲蛋糕	xia hu dan gao	1
 夏祭游鱼	xia ji you yu	1
 夕阳的投影	xi yang de tou ying	1
 外世突触	wai shi tu chu	1
@@ -5446,7 +5446,7 @@ use_preset_vocabulary: true
 志琼的信	zhi qiong de xin	1
 忘川之水	wang chuan zhi shui	1
 快快醒来	kuai kuai xing lai	1
-快点哦。	kuai dian o 。	1
+快点哦。	kuai dian o	1
 快速临时工棚	kuai su lin shi gong peng	1
 怀尔德的红色钥匙	huai er de de hong se yao shi	1
 怀尔德的黑色钥匙	huai er de de hei se yao shi	1
@@ -5817,6 +5817,7 @@ use_preset_vocabulary: true
 新鲜的清心	xin xian de qing xin	1
 新鲜的禽肉	xin xian de qin rou	1
 新鲜的绝云椒椒	xin xian de jue yun jiao jiao	1
+新鲜的绝云椒椒	xin xian de jue yun jiao jiao 41 ban ben	1
 新鲜的绯樱绣球	xin xian de fei ying xiu qiu	1
 新鲜的莲蓬	xin xian de lian peng	1
 新鲜的蘑菇	xin xian de mo gu	1
@@ -6471,7 +6472,6 @@ use_preset_vocabulary: true
 派蒙特制心意料理	pai meng te zhi xin yi liao li	1
 派蒙的伙食小金库	pai meng de huo shi xiao jin ku	1
 派蒙的留影机	pai meng de liu ying ji	1
-派蒙的留影机	pai meng de liu ying ji 5.8	1
 流悦晶石	liu yue jing shi	1
 流明晶石	liu ming jing shi	1
 流明石	liu ming shi	1
@@ -7580,7 +7580,6 @@ use_preset_vocabulary: true
 翻风跋沫之旅	fan feng ba mo zhi lv	1
 老旧的役人怀表	lao jiu de yi ren huai biao	1
 老旧的徽记	lao jiu de hui ji	1
-老旧的徽记	lao jiu de hui ji 4.2	1
 老旧的诗琴	lao jiu de shi qin	1
 老旧的钥匙	lao jiu de yao shi	1
 老旧的齿轮	lao jiu de chi lun	1
@@ -7991,8 +7990,7 @@ use_preset_vocabulary: true
 贾维的梦想	jia wei de meng xiang	1
 赀宝浮棚	zi bao fu peng	1
 赠彩	zeng cai	1
-资金	zi jin 4.5	1
-资金	zi jin 5.6	1
+资金	zi jin	1
 赛诺的介绍信	sai nuo de jie shao xin	1
 赛达菲的标记地图	sai da fei de biao ji di tu	1
 赛达菲的箱子	sai da fei de xiang zi	1
@@ -8093,7 +8091,6 @@ use_preset_vocabulary: true
 逐风人	zhu feng ren	1
 通往某处的钥匙	tong wang mou chu de yao shi	1
 通牒金盘	tong die jin pan	1
-通牒金盘	tong die jin pan 5.2	1
 通用型便签架	tong yong xing bian qian jia	1
 通用型定向传导元件	tong yong xing ding xiang chuan dao yuan jian	1
 通用型液货输运单元	tong yong xing ye huo shu yun dan yuan	1
@@ -8116,6 +8113,7 @@ use_preset_vocabulary: true
 遗落的魔导书	yi luo de mo dao shu	1
 遗迹守卫战利品	yi ji shou wei zhan li pin	1
 遗迹机关的核心	yi ji ji guan de he xin	1
+遗迹机关的核心	yi ji ji guan de he xin 44 tan suo	1
 遥遥旅途之忆	yao yao lv tu zhi yi	1
 邃羽夜巡之契	sui yu ye xun zhi qi	1
 邪龙的邪鳞	xie long de xie lin	1
@@ -8204,7 +8202,6 @@ use_preset_vocabulary: true
 铁艺雕花路灯	tie yi diao hua lu deng	1
 铁钱	tie qian	1
 铭随流镜	ming sui liu jing	1
-铭随流镜	ming sui liu jing 5.2	1
 铳枪影业获奖留念	chong qiang ying ye huo jiang liu nian	1
 银夜点注满天星	yin ye dian zhu man tian xing	1
 银杏写给博来的信	yin xing xie gei bo lai de xin	1
@@ -9132,12 +9129,12 @@ use_preset_vocabulary: true
 ？？？		1
 # ===== 成就 =====
 9文字之传言	9 wen zi zhi chuan yan	1
-DECKS＆DETECTIVES	decks＆detectives	1
+DECKS＆DETECTIVES	decks detectives	1
 Dance Like You Want to Win ！	dance like you want to win	1
 SWORDFISH Ⅱ	swordfish ⅱ	1
 Yo dala？	yo dala	1
-[一个伟大的计划	[ yi ge wei da de ji hua	1
-[他们给了我名字	[ ta men gei le wo ming zi	1
+一个伟大的计划	yi ge wei da de ji hua	1
+他们给了我名字	ta men gei le wo ming zi	1
 …Odomu？	odomu	1
 …一日之寒	yi ri zhi han	1
 …三而竭？	san er jie	1
@@ -9145,39 +9142,41 @@ Yo dala？	yo dala	1
 …与巨像	yu ju xiang	1
 …与睡梦同姓	yu shui meng tong xing	1
 …五丘丘怎么了？	wu qiu qiu zen me le	1
-…人人都是食神。	ren ren dou shi shi shen 。	1
+…人人都是食神。	ren ren dou shi shi shen	1
 …什么新浪潮？	shen me xin lang chao	1
 …你其实听得见吧？	ni qi shi ting de jian ba	1
-…使列邦观看你的丑陋。	shi lie bang guan kan ni de chou lou 。	1
+…使列邦观看你的丑陋。	shi lie bang guan kan ni de chou lou	1
 …全靠我们自己	quan kao wo men zi ji	1
 …其名为玛丽	qi ming wei ma li	1
 塞勒斯特	sai lei si te	1
 …唯独死亡与债务不可避	wei du si wang yu zhai wu bu ke bi	1
-…因为羁绊。	yin wei ji ban 。	1
+…因为羁绊。	yin wei ji ban	1
 …太阳岩龙蜥、月亮岩龙蜥	tai yang yan long xi 、 yue liang yan long xi	1
-…她必施行报应。	ta bi shi xing bao ying 。	1
-…将一切希望弃扬。	jiang yi qie xi wang qi yang 。	1
+…她必施行报应。	ta bi shi xing bao ying	1
+…将一切希望弃扬。	jiang yi qie xi wang qi yang	1
 …岂知夜色…	qi zhi ye se	1
 …并非是适格者	bing fei shi shi ge zhe	1
-…微笑就可以了。	wei xiao jiu ke yi le 。	1
+…微笑就可以了。	wei xiao jiu ke yi le	1
 …摔得越重	shuai de yue zhong	1
 …攻彼之盾	gong bi zhi dun	1
-…而尽人事。	er jin ren shi 。	1
-…腐肉朽处花争妍。	fu rou xiu chu hua zheng yan 。	1
+…而尽人事。	er jin ren shi	1
+…腐肉朽处花争妍。	fu rou xiu chu hua zheng yan	1
 …请悄悄将我忘记	qing qiao qiao jiang wo wang ji	1
 …还是新的风暴呢？	hai shi xin de feng bao ne	1
 …还有蜥蜴和斯波克	hai you xi yi he si bo ke	1
 …都汇进了激流	dou hui jin le ji liu	1
-…闻起来像沥青。	wen qi lai xiang li qing 。	1
+…闻起来像沥青。	wen qi lai xiang li qing	1
 塔列辛之书	ta lie xin zhi shu	1
 层岩巨渊矿产志	ceng yan ju yuan kuang chan zhi	1
 我作为冒险家的一生	wo zuo wei mao xian jia de yi sheng	1
 他们的愿望…	ta men de yuan wang	1
 命运的彼岸	ming yun de bi an	1
+地隐会的黑暗秘密	di yin hui de hei an mi mi	1
 常世无双小锦旗	chang shi wu shuang xiao jin qi	1
 明察冬鳗小锦旗	ming cha dong man xiao jin qi	1
 智圆行方小锦旗	zhi yuan xing fang xiao jin qi	1
 杜麦尼的诗篇	du mai ni de shi pian	1
+渠道为王	qu dao wei wang	1
 神明回以凝视	shen ming hui yi ning shi	1
 高人一等	gao ren yi deng	1
 一个冬天的童话	yi ge dong tian de tong hua	1
@@ -9217,7 +9216,7 @@ Yo dala？	yo dala	1
 与一位往昔神灵的谈话	yu yi wei wang xi shen ling de tan hua	1
 与圣墟的相会	yu sheng xu de xiang hui	1
 丑的美学	chou de mei xue	1
-且听我一言。	qie ting wo yi yan 。	1
+且听我一言。	qie ting wo yi yan	1
 且听风吟	qie ting feng yin	1
 丘丘学的扩张	qiu qiu xue de kuo zhang	1
 两万里格的漫游	liang wan li ge de man you	1
@@ -9228,7 +9227,8 @@ Yo dala？	yo dala	1
 丹砂高为千岩镇	dan sha gao wei qian yan zhen	1
 为书所爱的人	wei shu suo ai de ren	1
 为了众人的愿望	wei le zhong ren de yuan wang	1
-为了工作。	wei le gong zuo 。	1
+为了家园与炉火	wei le jia yuan yu lu huo	1
+为了工作。	wei le gong zuo	1
 为了没有眼泪的明天	wei le mei you yan lei de ming tian	1
 为了美好的明天	wei le mei hao de ming tian	1
 为人的条件？	wei ren de tiao jian	1
@@ -9242,10 +9242,12 @@ Yo dala？	yo dala	1
 五剑归王山	wu jian gui wang shan	1
 人创造的奇迹	ren chuang zao de qi ji	1
 人情练达即文章	ren qing lian da ji wen zhang	1
+人类灭绝之后…	ren lei mie jue zhi hou	1
 人铸赋形	ren zhu fu xing	1
 人间剧	ren jian ju	1
 人鱼童话	ren yu tong hua	1
 什么嘛，还不如冰雾花	shen me ma hai bu ru bing wu hua	1
+今夜月色正好	jin ye yue se zheng hao	1
 从善如流	cong shan ru liu	1
 从大海到大海	cong da hai dao da hai	1
 从灰暗群山间升起	cong hui an qun shan jian sheng qi	1
@@ -9257,6 +9259,7 @@ Yo dala？	yo dala	1
 众妙之门	zhong miao zhi men	1
 众花园中的一棵核桃树…	zhong hua yuan zhong de yi ke he tao shu	1
 优选风味	you xuan feng wei	1
+伟业的遂成	wei ye de sui cheng	1
 传球	chuan qiu	1
 传说中的勇者传说	chuan shuo zhong de yong zhe chuan shuo	1
 传送空间棋盘	chuan song kong jian qi pan	1
@@ -9347,6 +9350,7 @@ Yo dala？	yo dala	1
 历史的涟漪	li shi de lian yi	1
 历玄冥以幽径	li xuan ming yi you jing	1
 历经艰险…	li jing jian xian	1
+原力与你同在	yuan li yu ni tong zai	1
 原来那个柱子能打啊	yuan lai na ge zhu zi neng da a	1
 厨子与渔夫	chu zi yu yu fu	1
 又斩了无趣的…	you zhan liao wu qu de	1
@@ -9367,7 +9371,7 @@ Yo dala？	yo dala	1
 只要我跑的够快	zhi yao wo pao de gou kuai	1
 只要用心…	zhi yao yong xin	1
 只需一些柴火、一些醋…	zhi xu yi xie chai huo 、 yi xie cu	1
-叫我以实玛利。	jiao wo yi shi ma li 。	1
+叫我以实玛利。	jiao wo yi shi ma li	1
 可靠的叙事者	ke kao de xu shi zhe	1
 史莱姆，糖适量	shi lai mu tang shi liang	1
 吉位！	ji wei	1
@@ -9376,6 +9380,7 @@ Yo dala？	yo dala	1
 同流者	tong liu zhe	1
 名震云来	ming zhen yun lai	1
 后备非隐藏能源	hou bei fei yin cang neng yuan	1
+向上，向上，飞走了！	xiang shang xiang shang fei zou le	1
 向无敌大胃王致敬	xiang wu di da wei wang zhi jing	1
 向深水中的晨星	xiang shen shui zhong de chen xing	1
 听凭风引	ting ping feng yin	1
@@ -9407,16 +9412,16 @@ Yo dala？	yo dala	1
 国王刺客	guo wang ci ke	1
 圆滚滚的创化论	yuan gun gun de chuang hua lun	1
 圣山引路人	sheng shan yin lu ren	1
-圣龛巡礼·万火燎灼之原	sheng kan xun li · wan huo liao zhuo zhi yuan	1
 圣龛巡礼	sheng kan xun li	1
+万火燎灼之原	wan huo liao zhuo zhi yuan	1
 丰沃烬落之野	feng wo jin luo zhi ye	1
 佑灵砾漠	you ling li mo	1
 古海狂诗	gu hai kuang shi	1
-圣龛巡礼·月华濯沐之岛	sheng kan xun li · yue hua zhuo mu zhi dao	1
+月华濯沐之岛	yue hua zhuo mu zhi dao	1
 水软风柔之岛	shui ruan feng rou zhi dao	1
-圣龛巡礼·沙海热梦	sheng kan xun li · sha hai re meng	1
-圣龛巡礼·百泉谐律之地	sheng kan xun li · bai quan xie lv zhi di	1
-圣龛巡礼·稻妻天领	sheng kan xun li · dao qi tian ling	1
+沙海热梦	sha hai re meng	1
+百泉谐律之地	bai quan xie lv zhi di	1
+稻妻天领	dao qi tian ling	1
 须弥林海	xu mi lin hai	1
 鹤观	he guan	1
 在我诞生之前	zai wo dan sheng zhi qian	1
@@ -9443,18 +9448,12 @@ Yo dala？	yo dala	1
 壶中贵客	hu zhong gui ke	1
 多冷的隆冬	duo leng de long dong	1
 多谢惠顾！	duo xie hui gu	1
-夜馈寻迹·万火燎灼之原	ye kui xun ji · wan huo liao zhuo zhi yuan	1
 夜馈寻迹	ye kui xun ji	1
-夜馈寻迹·月华濯沐之岛	ye kui xun ji · yue hua zhuo mu zhi dao	1
 大业物	da ye wu	1
 大乐章的回声	da yue zhang de hui sheng	1
-大地勘探·万火燎灼之原	da di kan tan · wan huo liao zhuo zhi yuan	1
 大地勘探	da di kan tan	1
-大地勘探·月华濯沐之岛	da di kan tan · yue hua zhuo mu zhi dao	1
-大地勘探·沙海热梦	da di kan tan · sha hai re meng	1
-大地勘探·百泉谐律之地	da di kan tan · bai quan xie lv zhi di	1
 碧水萦纡之乡	bi shui ying yu zhi xiang	1
-大地勘探·雷光所照之土	da di kan tan · lei guang suo zhao zhi tu	1
+雷光所照之土	lei guang suo zhao zhi tu	1
 龙脊雪山	long ji xue shan	1
 大天云峠	da tian yun qia	1
 大梦的锚点	da meng de mao dian	1
@@ -9480,7 +9479,7 @@ Yo dala？	yo dala	1
 奉璋定极	feng zhang ding ji	1
 套圈也是圈套	tao quan ye shi quan tao	1
 女仆骑士不会受伤	nv pu qi shi bu hui shou shang	1
-奴家是猫。名字叫寝子	nu jia shi mao 。 ming zi jiao qin zi	1
+奴家是猫。名字叫寝子	nu jia shi mao ming zi jiao qin zi	1
 她和她的猫	ta he ta de mao	1
 她已经很紧张了	ta yi jing hen jin zhang le	1
 她的黄金时代…	ta de huang jin shi dai	1
@@ -9517,6 +9516,7 @@ Yo dala？	yo dala	1
 审判之时…还没到	shen pan zhi shi hai mei dao	1
 家政高手	jia zheng gao shou	1
 宽缓的归途	kuan huan de gui tu	1
+寂静的春天	ji jing de chun tian	1
 寒天之钉	han tian zhi ding	1
 寻欢作乐	xun huan zuo le	1
 射程之内好说话	she cheng zhi nei hao shuo hua	1
@@ -9525,6 +9525,7 @@ Yo dala？	yo dala	1
 小小的一步	xiao xiao de yi bu	1
 小猎犬号搁浅记	xiao lie quan hao ge qian ji	1
 少冰无糖	shao bing wu tang	1
+尘与灯的挽歌	chen yu deng de wan ge	1
 尚未致死的疾病	shang wei zhi si de ji bing	1
 就像水消失在水中	jiu xiang shui xiao shi zai shui zhong	1
 就像雨中的泪水	jiu xiang yu zhong de lei shui	1
@@ -9560,6 +9561,7 @@ Yo dala？	yo dala	1
 幸运硬币	xing yun ying bi	1
 幻写引路人	huan xie yin lu ren	1
 废图毁腾	fei tu hui teng	1
+废土工程学	fei tu gong cheng xue	1
 废墟的故事	fei xu de gu shi	1
 建筑设计师的浪漫	jian zhu she ji shi de lang man	1
 开战！	kai zhan	1
@@ -9567,11 +9569,14 @@ Yo dala？	yo dala	1
 异乡异客	yi xiang yi ke	1
 异人一揆	yi ren yi kui	1
 异人祓行芝居	yi ren fu xing zhi ju	1
+异国相逢，优惠放送	yi guo xiang feng you hui fang song	1
+异国相逢，优惠放送？	yi guo xiang feng you hui fang song	1
 异邦人与异邦人	yi bang ren yu yi bang ren	1
 张力稳定锚	zhang li wen ding mao	1
 强行突破作战	qiang xing tu po zuo zhan	1
 当午夜钟声敲响	dang wu ye zhong sheng qiao xiang	1
 当机芯陷入沉眠…	dang ji xin xian ru chen mian	1
+当极光闪耀	dang ji guang shan yao	1
 当红帕化作飞鸟…	dang hong pa hua zuo fei niao	1
 当财运来敲门	dang cai yun lai qiao men	1
 当那突角龙杀到	dang na tu jiao long sha dao	1
@@ -9650,6 +9655,7 @@ Yo dala？	yo dala	1
 控制了香料的人…	kong zhi le xiang liao de ren	1
 推倒这面墙！	tui dao zhe mian qiang	1
 推分算数原理	tui fen suan shu yuan li	1
+提琴手的绿地	ti qin shou de lv di	1
 提瓦特的园丁，不畏严寒	ti wa te de yuan ding bu wei yan han	1
 提瓦特的园丁，不畏酷热	ti wa te de yuan ding bu wei ku re	1
 揭开封印之时…	jie kai feng yin zhi shi	1
@@ -9677,6 +9683,7 @@ Yo dala？	yo dala	1
 无名之城的过往	wu ming zhi cheng de guo wang	1
 无名指追魂索	wu ming zhi zhui hun suo	1
 无坚不摧	wu jian bu cui	1
+无声指令	wu sheng zhi ling	1
 无影的塞谟奈	wu ying de sai mo nai	1
 无念无想，泡影断灭	wu nian wu xiang pao ying duan mie	1
 无果的远征	wu guo de yuan zheng	1
@@ -9690,6 +9697,7 @@ Yo dala？	yo dala	1
 旧日的园圃与源泉	jiu ri de yuan pu yu yuan quan	1
 时也运也	shi ye yun ye	1
 时仿佛以遥见	shi fang fu yi yao jian	1
+时光飞逝，金钱亦逝	shi guang fei shi jin qian yi shi	1
 时间的神秘形式	shi jian de shen mi xing shi	1
 明天交换明天	ming tian jiao huan ming tian	1
 春香窑的副业	chun xiang yao de fu ye	1
@@ -9712,7 +9720,9 @@ Yo dala？	yo dala	1
 最长的一日	zui zhang de yi ri	1
 月亮的距离	yue liang de ju li	1
 月亮还没有出来	yue liang hai mei you chu lai	1
+月光下的少女	yue guang xia de shao nv	1
 月光州	yue guang zhou	1
+月影行者	yue ying xing zhe	1
 有一说一	you yi shuo yi	1
 有备才能无患	you bei cai neng wu huan	1
 有罪推定	you zui tui ding	1
@@ -9758,12 +9768,14 @@ Yo dala？	yo dala	1
 欺诈师列那	qi zha shi lie na	1
 歌利亚	ge li ya	1
 正义的反抗	zheng yi de fan kang	1
+正午审判	zheng wu shen pan	1
 正午的海鸟	zheng wu de hai niao	1
 正法眼藏	zheng fa yan cang	1
 正经的钓鱼学位	zheng jing de diao yu xue wei	1
 此处曾有龙	ci chu ceng you long	1
 此时无声胜有声	ci shi wu sheng sheng you sheng	1
 武士饭	wu shi fan	1
+武库巨鸭的坠落	wu ku ju ya de zhui luo	1
 殊形之龙…	shu xing zhi long	1
 残阳浩劫之后	can yang hao jie zhi hou	1
 比勒琪丝的哀歌	bi lei qi si de ai ge	1
@@ -9790,6 +9802,7 @@ Yo dala？	yo dala	1
 沧海不归客	cang hai bu gui ke	1
 沧海生威	cang hai sheng wei	1
 油炸冰淇淋…？	you zha bing qi lin	1
+沿着银色之路	yan zhe yin se zhi lu	1
 法达摩加纳	fa da mo jia na	1
 法里斯之旅	fa li si zhi lv	1
 洒下甘露三千担	sa xia gan lu san qian dan	1
@@ -9831,10 +9844,12 @@ Yo dala？	yo dala	1
 漫长的送别	man chang de song bie	1
 漫长的重逢	man chang de chong feng	1
 潜水钟与胖胖果	qian shui zhong yu pang pang guo	1
+潮流逆转	chao liu ni zhuan	1
 火一般辉煌	huo yi ban hui huang	1
 火山之印与烈火之针	huo shan zhi yin yu lie huo zhi zhen	1
 火榴果可不只是好看而已！	huo liu guo ke bu zhi shi hao kan er yi	1
 火鼠裘、龙首珠、佛前钵和…	huo shu qiu 、 long shou zhu 、 fu qian bo he	1
+灯也会有影子	deng ye hui you ying zi	1
 灯火不歇	deng huo bu xie	1
 灰河往事	hui he wang shi	1
 灵何惟兮水中	ling he wei xi shui zhong	1
@@ -9878,6 +9893,7 @@ Yo dala？	yo dala	1
 玉璧玉璧，随我心意…	yu bi yu bi sui wo xin yi	1
 玫瑰花蕾…	mei gui hua lei	1
 现代钟表的诞生	xian dai zhong biao de dan sheng	1
+现在是我的了！	xian zai shi wo de le	1
 珊瑚宫的祈祷	shan hu gong de qi dao	1
 珠心熔毁	zhu xin rong hui	1
 璃月一番	li yue yi fan	1
@@ -9888,6 +9904,7 @@ Yo dala？	yo dala	1
 生命，很神奇吧？	sheng ming hen shen qi ba	1
 生成、交换、储存和使用	sheng cheng 、 jiao huan 、 chu cun he shi yong	1
 生灭去来	sheng mie qu lai	1
+电光幻梦	dian guang huan meng	1
 电子脑硬化症	dian zi nao ying hua zheng	1
 画、梦境和机械狗	hua 、 meng jing he ji xie gou	1
 画中有话	hua zhong you hua	1
@@ -9963,6 +9980,7 @@ Yo dala？	yo dala	1
 红海啊，让开道路吧…	hong hai a rang kai dao lu ba	1
 红莲冰河与红莲魔女	hong lian bing he yu hong lian mo nv	1
 约等于天下无敌	yue deng yu tian xia wu di	1
+纯真年代的终结	chun zhen nian dai de zhong jie	1
 纳塔博学者	na ta bo xue zhe	1
 终战之战	zhong zhan zhi zhan	1
 终有一别	zhong you yi bie	1
@@ -9979,6 +9997,7 @@ Yo dala？	yo dala	1
 网中之梦	wang zhong zhi meng	1
 罚球	fa qiu	1
 罪人舞步旋	zui ren wu bu xuan	1
+罪人降临	zui ren jiang lin	1
 羁旅未竟	ji lv wei jing	1
 美丽的与被诅咒的	mei li de yu bei zu zhou de	1
 美好的昨天	mei hao de zuo tian	1
@@ -10003,6 +10022,8 @@ Yo dala？	yo dala	1
 自然哲学百科全书	zi ran zhe xue bai ke quan shu	1
 自至深处	zi zhi shen chu	1
 至上的秘笈	zhi shang de mi ji	1
+至冬城外的色彩	zhi dong cheng wai de se cai	1
+至冬域外的色彩	zhi dong yu wai de se cai	1
 至少是个开始…	zhi shao shi ge kai shi	1
 至少有了个结局	zhi shao you le ge jie ju	1
 至高的杰作	zhi gao de jie zuo	1
@@ -10011,7 +10032,7 @@ Yo dala？	yo dala	1
 舞!舞!舞!	wu wu wu	1
 船说了算	chuan shuo le suan	1
 艺术与生活	yi shu yu sheng huo	1
-芝麻，芝麻，请开门。	zhi ma zhi ma qing kai men 。	1
+芝麻，芝麻，请开门。	zhi ma zhi ma qing kai men	1
 苇海霸者之证	wei hai ba zhe zhi zheng	1
 若你渴盼鲜血…	ruo ni ke pan xian xue	1
 若我未被化作烟灰	ruo wo wei bei hua zuo yan hui	1
@@ -10029,6 +10050,7 @@ Yo dala？	yo dala	1
 蒙德城的麻辣传说	meng de cheng de ma la chuan shuo	1
 蒲公英的故乡	pu gong ying de gu xiang	1
 蔷薇绽放的若干条件	qiang wei zhan fang de ruo gan tiao jian	1
+蕴光之茧	yun guang zhi jian	1
 薄缘的道与光与胤	bao yuan de dao yu guang yu yin	1
 藏骸所的织密者	cang hai suo de zhi mi zhe	1
 虚构的凯旋式	xu gou de kai xuan shi	1
@@ -10053,8 +10075,9 @@ Yo dala？	yo dala	1
 让我见识一下巨像的性能吧	rang wo jian shi yi xia ju xiang de xing neng ba	1
 训练有素的考古学家	xun lian you su de kao gu xue jia	1
 论诗琴演奏准则	lun shi qin yan zou zhun ze	1
+诗与歌的女儿们	shi yu ge de nv er men	1
 诚实高个儿西尔弗	cheng shi gao ge er xi er fu	1
-说还是不说，这是个问题。	shuo hai shi bu shuo zhe shi ge wen ti 。	1
+说还是不说，这是个问题。	shuo hai shi bu shuo zhe shi ge wen ti	1
 请保持安全距离	qing bao chi an quan ju li	1
 请勿长期食用	qing wu chang qi shi yong	1
 请安全玩耍	qing an quan wan shua	1
@@ -10123,6 +10146,7 @@ Yo dala？	yo dala	1
 逃逸电子	tao yi dian zi	1
 逆子的归乡	ni zi de gui xiang	1
 逆转的大魔术	ni zhuan de da mo shu	1
+途中的见闻	tu zhong de jian wen	1
 通往光明之路	tong wang guang ming zhi lu	1
 速度，我就是速度!	su du wo jiu shi su du	1
 遇火斩火	yu huo zhan huo	1
@@ -10143,6 +10167,7 @@ Yo dala？	yo dala	1
 金风玉露一相逢	jin feng yu lu yi xiang feng	1
 铁石为开	tie shi wei kai	1
 银河搭便车指南	yin he da bian che zhi nan	1
+银钥解封	yin yao jie feng	1
 锦落云开	jin luo yun kai	1
 镜与谜烟的彼方	jing yu mi yan de bi fang	1
 长日留痕	zhang ri liu hen	1
@@ -10157,6 +10182,7 @@ Yo dala？	yo dala	1
 除了时间，什么也没丢	chu le shi jian shen me ye mei diu	1
 隽永如电	juan yong ru dian	1
 雨落进了泥土	yu luo jin le ni tu	1
+雪浪与苍林之舞	xue lang yu cang lin zhi wu	1
 零余者的自述	ling yu zhe de zi shu	1
 零号玩家	ling hao wan jia	1
 雷与永远	lei yu yong yuan	1
@@ -10220,90 +10246,90 @@ Yo dala？	yo dala	1
 龙的国度	long de guo du	1
 龙的摇篮	long de yao lan	1
 龙蜥特急斯库拉号	long xi te ji si ku la hao	1
-赫斯珀洛斯的好东西	he si po luo si de hao dong xi	1
-燔炎的寻宝者	fan yan de xun bao zhe	1
-循雷的寻宝者	xun lei de xun bao zhe	1
-沧浪的冒险家	cang lang de mao xian jia	1
-流沙的冒险家	liu sha de mao xian jia	1
-岩渊引路人	yan yuan yin lu ren	1
-迷失的寻宝者	mi shi de xun bao zhe	1
-画中之梦	hua zhong zhi meng	1
-沧屿的寻宝者	cang yu de xun bao zhe	1
-草草炸弹，轰轰火花	cao cao zha dan ， hong hong huo hua	1
-比珠宝还珍贵	bi zhu bao hai zhen gui	1
-岩渊的寻宝者	yan yuan de xun bao zhe	1
-伐伐伐伐木工	fa fa fa fa mu gong	1
-壶中密友	hu zhong mi you	1
-鸣草丛中的捕手	ming cao cong zhong de bu shou	1
-微缩型骰子壶	wei suo xing tou zi hu	1
-林薮引路人	lin sou yin lu ren	1
-如日方升的旅程	ru ri fang sheng de lv cheng	1
-前方高仙力反应	qian fang gao xian li fan ying	1
-岩间引路人	yan jian yin lu ren	1
-不止是个小板凳	bu zhi shi ge xiao ban deng	1
-荒场的冒险家	huang chang de mao xian jia	1
-风中引路人	feng zhong yin lu ren	1
-燔炎的冒险家	fan yan de mao xian jia	1
-磐岩的寻宝者	pan yan de xun bao zhe	1
-汐海引路人	xi hai yin lu ren	1
-你所不知道的事	ni suo bu zhi dao de shi	1
-昨日重现	zuo ri chong xian	1
-超绽放马戏	chao zhan fang ma xi	1
-沧浪的寻宝者	cang lang de xun bao zhe	1
-胜利的拼图已在手中	sheng li de pin tu yi zai shou zhong	1
-荒场的寻宝者	huang chang de xun bao zhe	1
-见习勇者	jian xi yong zhe	1
-花开之洞天	hua kai zhi dong tian	1
-低温环境导致可用电量下降	di wen huan jing dao zhi ke yong dian liang xia jiang	1
-瑶庭引路人	yao ting yin lu ren	1
-瑶林的寻宝者	yao lin de xun bao zhe	1
-白色的季节	bai se de ji jie	1
-流沙的寻宝者	liu sha de xun bao zhe	1
-来自深境	lai zi shen jing	1
-我的…地盘	wo de di pan	1
-星光闪耀时	xing guang shan yao shi	1
-赤红的新芽	chi hong de xin ya	1
-大地的馈赠	da di de kui zeng	1
-深邃的探究者	shen sui de tan jiu zhe	1
-轮唱的艺术	lun chang de yi shu	1
-翠陵的寻宝者	cui ling de xun bao zhe	1
-…必须毁灭两次	bi xu hui mie liang ci	1
-标准图样	biao zhun tu yang	1
-最终枫达海	zui zhong feng da hai	1
-古海的寻宝者	gu hai de xun bao zhe	1
-月尘的冒险家	yue chen de mao xian jia	1
-雪山的寻宝者	xue shan de xun bao zhe	1
-沃灰的寻宝者	wo hui de xun bao zhe	1
-循雷的冒险家	xun lei de mao xian jia	1
-岩渊的冒险家	yan yuan de mao xian jia	1
-星级大厨	xing ji da chu	1
 踏雪引路人	ta xue yin lu ren	1
-大漠引路人	da mo yin lu ren	1
-翠陵的冒险家	cui ling de mao xian jia	1
-沃灰的冒险家	wo hui de mao xian jia	1
-碛原引路人	qi yuan yin lu ren	1
-瑶林的冒险家	yao lin de mao xian jia	1
-高倍率牌手传说	gao bei lv pai shou chuan shuo	1
-月尘的寻宝者	yue chen de xun bao zhe	1
-摧枯拉朽	cui ku la xiu	1
-为你，我们来欢饮一杯	wei ni ， wo men lai huan yin yi bei	1
-卡伊洛斯的时时刻刻	ka yi luo si de shi shi ke ke	1
-磐岩的冒险家	pan yan de mao xian jia	1
-百炼千锤	bai lian qian chui	1
-逐风的寻宝者	zhu feng de xun bao zhe	1
-一撕两半混沌球	yi si liang ban hun dun qiu	1
-旋律行进的方向	xuan lv xing jin de fang xiang	1
-色彩缤纷的答复	se cai bin fen de da fu	1
-古海的冒险家	gu hai de mao xian jia	1
-宝钱大亨	bao qian da heng	1
 通通400铃	tong tong 400 ling	1
-生存专家	sheng cun zhuan jia	1
-迷失的冒险家	mi shi de mao xian jia	1
-逐风的冒险家	zhu feng de mao xian jia	1
-首演之夜	shou yan zhi ye	1
-福斯福洛斯的指引	fu si fu luo si de zhi yin	1
-沧屿的冒险家	cang yu de mao xian jia	1
+微缩型骰子壶	wei suo xing tou zi hu	1
+花开之洞天	hua kai zhi dong tian	1
+流沙的冒险家	liu sha de mao xian jia	1
+大漠引路人	da mo yin lu ren	1
+标准图样	biao zhun tu yang	1
+白色的季节	bai se de ji jie	1
+汐海引路人	xi hai yin lu ren	1
+循雷的冒险家	xun lei de mao xian jia	1
+燔炎的冒险家	fan yan de mao xian jia	1
+来自深境	lai zi shen jing	1
+循雷的寻宝者	xun lei de xun bao zhe	1
+流沙的寻宝者	liu sha de xun bao zhe	1
+深邃的探究者	shen sui de tan jiu zhe	1
+燔炎的寻宝者	fan yan de xun bao zhe	1
+林薮引路人	lin sou yin lu ren	1
 围炉夜谈	wei lu ye tan	1
+一撕两半混沌球	yi si liang ban hun dun qiu	1
+沧屿的冒险家	cang yu de mao xian jia	1
+古海的冒险家	gu hai de mao xian jia	1
+月尘的寻宝者	yue chen de xun bao zhe	1
+福斯福洛斯的指引	fu si fu luo si de zhi yin	1
+昨日重现	zuo ri chong xian	1
+低温环境导致可用电量下降	di wen huan jing dao zhi ke yong dian liang xia jiang	1
+色彩缤纷的答复	se cai bin fen de da fu	1
+比珠宝还珍贵	bi zhu bao hai zhen gui	1
+雪山的寻宝者	xue shan de xun bao zhe	1
+岩渊的寻宝者	yan yuan de xun bao zhe	1
+胜利的拼图已在手中	sheng li de pin tu yi zai shou zhong	1
+瑶林的寻宝者	yao lin de xun bao zhe	1
+翠陵的冒险家	cui ling de mao xian jia	1
+不止是个小板凳	bu zhi shi ge xiao ban deng	1
+伐伐伐伐木工	fa fa fa fa mu gong	1
+荒场的寻宝者	huang chang de xun bao zhe	1
+沧屿的寻宝者	cang yu de xun bao zhe	1
+沧浪的寻宝者	cang lang de xun bao zhe	1
+我的…地盘	wo de di pan	1
+岩渊引路人	yan yuan yin lu ren	1
+前方高仙力反应	qian fang gao xian li fan ying	1
+迷失的寻宝者	mi shi de xun bao zhe	1
+磐岩的寻宝者	pan yan de xun bao zhe	1
+轮唱的艺术	lun chang de yi shu	1
+荒场的冒险家	huang chang de mao xian jia	1
+迷失的冒险家	mi shi de mao xian jia	1
+你所不知道的事	ni suo bu zhi dao de shi	1
+风中引路人	feng zhong yin lu ren	1
+瑶庭引路人	yao ting yin lu ren	1
+超绽放马戏	chao zhan fang ma xi	1
+沧浪的冒险家	cang lang de mao xian jia	1
+草草炸弹，轰轰火花	cao cao zha dan hong hong huo hua	1
+首演之夜	shou yan zhi ye	1
+沃灰的冒险家	wo hui de mao xian jia	1
+赫斯珀洛斯的好东西	he si po luo si de hao dong xi	1
+画中之梦	hua zhong zhi meng	1
+翠陵的寻宝者	cui ling de xun bao zhe	1
+月尘的冒险家	yue chen de mao xian jia	1
+古海的寻宝者	gu hai de xun bao zhe	1
+岩间引路人	yan jian yin lu ren	1
+逐风的冒险家	zhu feng de mao xian jia	1
+为你，我们来欢饮一杯	wei ni wo men lai huan yin yi bei	1
+摧枯拉朽	cui ku la xiu	1
+旋律行进的方向	xuan lv xing jin de fang xiang	1
+星级大厨	xing ji da chu	1
+大地的馈赠	da di de kui zeng	1
+岩渊的冒险家	yan yuan de mao xian jia	1
+沃灰的寻宝者	wo hui de xun bao zhe	1
+赤红的新芽	chi hong de xin ya	1
+最终枫达海	zui zhong feng da hai	1
+见习勇者	jian xi yong zhe	1
+瑶林的冒险家	yao lin de mao xian jia	1
+鸣草丛中的捕手	ming cao cong zhong de bu shou	1
+星光闪耀时	xing guang shan yao shi	1
+百炼千锤	bai lian qian chui	1
+碛原引路人	qi yuan yin lu ren	1
+卡伊洛斯的时时刻刻	ka yi luo si de shi shi ke ke	1
+生存专家	sheng cun zhuan jia	1
+逐风的寻宝者	zhu feng de xun bao zhe	1
+高倍率牌手传说	gao bei lv pai shou chuan shuo	1
+宝钱大亨	bao qian da heng	1
+如日方升的旅程	ru ri fang sheng de lv cheng	1
+…必须毁灭两次	bi xu hui mie liang ci	1
+磐岩的冒险家	pan yan de mao xian jia	1
+壶中密友	hu zhong mi you	1
 # ===== 书籍 =====
 旧都梦夜奇谭	jiu du meng ye qi tan	1
 东王史辩	dong wang shi bian	1
@@ -10395,7 +10421,7 @@ Yo dala？	yo dala	1
 第五版	di wu ban	1
 鬼武道	gui wu dao	1
 # ===== 活动 =====
-原神线上音乐会2022	yuan shen xian shang yin yue hui 2022	1
+原神线上音乐会2022	yuan shen xian shang yin yue hui	1
 铸境研炼		1
 万能向导	mo shi wan neng xiang dao	1
 第二期	di er qi	1
@@ -10690,7 +10716,6 @@ Yo dala？	yo dala	1
 险途勘探	xian tu kan tan	1
 雕琢童心	diao zhuo tong xin	1
 雪峰胜景 星耀奇旅	xue feng sheng jing xing yao qi lv	1
-雪浪与苍林之舞	xue lang yu cang lin zhi wu	1
 雷影循声	lei ying xun sheng	1
 风来人剑斗绮谭	feng lai ren jian dou qi tan	1
 风沙轰鸣	feng sha hong ming	1
@@ -10811,7 +10836,7 @@ Yo dala？	yo dala	1
 异色猎刀鳐	yi se lie dao yao	1
 强劲冲浪拍档！	qiang jing chong lang pai dang	1
 归芒携信	gui mang xie xin	1
-很棒，哥们。	hen bang ge men 。	1
+很棒，哥们。	hen bang ge men	1
 心识蕴藏之种	xin shi yun cang zhi zhong	1
 忘玄	wang xuan	1
 快快缝补术	kuai kuai feng bu shu	1
